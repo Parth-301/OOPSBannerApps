@@ -15,7 +15,7 @@ public class UC3UseStringJoin {
         printLine("OOOOO", "OOOOO", "PPPPP", "SSSSS");
         printLine("O   O", "O   O", "P   P", "S");
         printLine("O   O", "O   O", "PPPPP", "SSSSS");
-        printLine("O   O", "O   O", "P", "    S");
-        printLine("OOOOO", "OOOOO", "P", "SSSSS");
+        printLine("O   O", "O   O", "P", "        S");
+        printLine("OOOOO", "OOOOO", "P",     "SSSSS");
     }
 }
